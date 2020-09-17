@@ -1,2 +1,2 @@
-# Analyze-Survey-Data-with-R
-a Survey-weighted Multivariate Analysis of NHANES data
+# About NHANES
+Nationall Health and Nutrition Examination Survey (NHANES) is designed to assess the health and nutritional status of adults and children in the United States. It is a unique survey combing interviews and physical examinations, and the data set is divided into multiple files that need to be merged. Since the survey is meant to be representative the entire population, the sample should be appropriately weighted using the weight variables provided in the data set.
