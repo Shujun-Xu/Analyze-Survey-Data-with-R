@@ -1,6 +1,6 @@
 
 ### Purpose of the Study
-* To evaluate the protective effect of Physical Recreation Activities (PRA) on total diabetes (including diagnosed and undiagnosed), adjusting for possible confounders and meanwhile examine the effect modification of race/ethnicity on PRA and diabetes outcome.
+* To evaluate the protective effect of Physical Recreation Activities (PRA) on total diabetes (including diagnosed and undiagnosed) adjusting for possible confounders , and meanwhile examine the effect modification of race/ethnicity on PRA and diabetes outcome.
 
 ### Background
 * During 1999–2016,the age-adjusted prevalence of total diabetes significantly increased among adults aged 18 years or older.
