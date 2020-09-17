@@ -11,7 +11,7 @@
 * Nationall Health and Nutrition Examination Survey (NHANES) is designed to assess the health and nutritional status of adults and children in the United States. It is a unique survey combing interviews and physical examinations, and the data set is divided into multiple files that need to be merged. Since the survey is meant to be representative of the entire population, the sample should be appropriately weighted using the weight variables provided in the data set.
 
 ### Statistical Analysis
-* Data summary (Univariate distribution of all variables)
+* Summary of univariate distribution of all variables
 * Bivariate analysis (Chi-squared tests)
 * Multi-variate analysis (Ordinary Logistic Regression Model, stepwise variable selection , 𝛼 = 0.05)
 * Software: R-Studio version 3.6.2
