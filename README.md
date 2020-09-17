@@ -13,5 +13,5 @@
 ### Statistical Analysis
 * Data summary (Univariate distribution of all variables)
 * Bivariate analysis (Chi-squared tests)
-* Multi-variate analysis (Ordinary Logistic Regression Model,stepwise variable selection,significance threshold 𝛼 = 0.05)
+* Multi-variate analysis (Ordinary Logistic Regression Model, stepwise variable selection , 𝛼 = 0.05)
 * Software: R-Studio version 3.6.2
